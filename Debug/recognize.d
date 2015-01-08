@@ -1,0 +1,1 @@
+recognize.d: ../recognize.cpp
